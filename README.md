@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Bimal Kumar!](https://github.com/Bimal022/)
+## Hey there 👋, I'm [Kumar Bimal!](https://github.com/Bimal022/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
