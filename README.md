@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/kumar._.bimal/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
 </p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Bimal022.Bimal022&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![![](https://visitcount.itsvg.in/api?id=bimal022&icon=0&color=0)](https://visitcount.itsvg.in)
 
 I am a passionate Cross-Platform Developer proficient in both Flutter for Android app development and web technologies, currently pursuing BTech in Computer Science at Bennett University. 🚀
 
@@ -14,11 +14,12 @@ I have a strong foundation in programming languages such as C++, Java, Python, a
 
 Feel free to connect with me @Bimal022 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Like My Work?
+See My Work?
 
-<a href="https://www.buymeacoffee.com/Bimal022" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://bimal022.github.io/Portfolio/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="See My Work" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="gifs/coder.gif"/>
+
 
 ## Talking about Personal Stuff:
 - 🛠 &nbsp; Currently honing my skills in various technologies including Flutter, Android, and web development.
