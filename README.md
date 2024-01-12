@@ -1,8 +1,8 @@
 ## Hey there 👋, I'm [Kumar Bimal!](https://github.com/Bimal022/)
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInProfile)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/YourInstagramProfile/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/KumarBimal/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-bimal-a2605b240/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kumar._.bimal/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Bimal022.Bimal022&style=flat-square&color=0088cc)
 
@@ -12,33 +12,42 @@ I have a strong foundation in programming languages such as C++, Java, Python, a
 
 Feel free to connect with me @Bimal022 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-Joined Github 2 Years  ago.
-
-Since then I pushed 121+ commits, opened **[Your Issues]**+ issues, submitted **[Your Pull Requests]**+ pull requests, created **[Your Gists]**+ gists, and contributed to **[Your Repositories]**+ public repositories.
-
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/Bimal022" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 <img align="right" height="250" width="375" alt="" src="gifs/coder.gif"/>
 
-### Talking about Personal Stuff:
+## Talking about Personal Stuff:
+- 🛠 &nbsp; Currently honing my skills in various technologies including Flutter, Android, and web development.
+- 🚀 &nbsp; Passionate about exploring innovative tech solutions and diving deep into problem-solving challenges.
+- 💬 &nbsp; Open to discussions and questions! Feel free to ask me anything [here](https://github.com/Bimal022/Bimal022/issues/1), and I'll be happy to help.
+- 👾 &nbsp; Fun Fact: I find joy in unraveling the complexities of coding and discovering elegant solutions.
 
-- 🛠 &nbsp; I’m currently working with [Your Technologies].
-- 🚀 &nbsp; I’m currently exploring [Your Interests].
-- 💬 &nbsp; Ask me anything [here](https://github.com/Bimal022/Bimal022/issues/1)! I am happy to help.
-- 👾 &nbsp; [Your Fun Fact].
+🌟 **Hobbies:**
+- ♟️ **Chess:** Enjoy strategic thinking and mental challenges through chess games.
+If you share a passion for chess, feel free to challenge me to a game on [chess.com](https://www.chess.com/member/bimal002). Just send a friend request, and let's enjoy a strategic and fun match together!
 
-### My Absolute Favorites:
+- 🏏 **Cricket:** Love the thrill of the game, both playing and watching.
+- 🎱 **Snooker/Pool:** Find relaxation and precision in the game of snooker.
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+
+📌 **Note:** Currently exploring new opportunities and ready to contribute to exciting projects!
 
 ### Languages and Tools:
 
-<code><img height="27" src="[Your Image URL]" alt="[Your Alt Text]"></code>
-<code><img height="27" src="[Your Image URL]" alt="[Your Alt Text]"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"></code>
 <!-- Add more languages and tools as per your expertise -->
 
 ### Projects and Dev Stuffs:
@@ -60,19 +69,6 @@ Like My Work?
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimal022&hide_border=true" />
 </details>
 
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> [Your Operating System]</li>
-	    <li><b>Laptop: </b> [Your Laptop Model]</li>
-  	    <li><b>Browser: </b> [Your Browser]</li>
-	    <li><b>Terminal: </b> [Your Terminal Setup]</li>
-	    <li><b>Code Editor:</b> [Your Code Editor]</li>
- 	    <li><b>Other Tools:</b> [Other Tools]</li>
-	    <li><b>To Stay Updated:</b> [Your Sources]</li>
-	</ul>
-</details>
 
 #
 
