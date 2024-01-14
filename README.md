@@ -17,9 +17,13 @@ I have a strong foundation in programming languages such as **C++, Java, Python*
 
 Feel free to connect with me **@Bimal022** for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-See My Work?
+<p>See My Work?</p>
+<a href="https://bimal022.github.io/Portfolio/" target="_blank">
+  <img src="gifs/portfolio.png" alt="See My Work" style="max-width: 100%; height: auto;" width="217px">
+  <p style="text-align: center; margin-top: 5px; font-weight: bold;">Portfolio Website</p>
+</a>
 
-<a href="https://bimal022.github.io/Portfolio/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="See My Work" height="60px" width="217px" ></a>
+
 
 <img align="right" height="250" width="375" alt="" src="gifs/coder.gif"/>
 
