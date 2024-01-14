@@ -25,7 +25,7 @@ Feel free to connect with me **@Bimal022** for all things tech or just to say he
 
 
 
-<img align="right" height="250" width="375" alt="" src="gifs/coder.gif"/>
+<img align="right" height="250" width="375" alt="" src="gifs/code.gif"/>
 
 ## Talking about Personal Stuff:
 - 🛠 &nbsp; Currently honing my skills in various technologies including **Flutter, Android, and web development**.
