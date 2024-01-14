@@ -6,7 +6,10 @@
   <a href="https://www.instagram.com/kumar._.bimal/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
 </p>
 
-### Glad to see you here! &nbsp; ![![](https://visitcount.itsvg.in/api?id=bimal022&icon=0&color=0)](https://visitcount.itsvg.in)
+### Glad to see you here! &nbsp;
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bimal022&label=Profile%20views&color=0e75b6&style=flat" alt="bimal022" />
+</p>
 
 I am a passionate Cross-Platform Developer proficient in both Flutter for Android app development and web technologies, currently pursuing BTech in Computer Science at Bennett University. 🚀
 
