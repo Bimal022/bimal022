@@ -11,11 +11,11 @@
   <img src="https://komarev.com/ghpvc/?username=bimal022&label=Profile%20views&color=0e75b6&style=flat" alt="bimal022" />
 </p>
 
-I am a passionate Cross-Platform Developer proficient in both Flutter for Android app development and web technologies, currently pursuing BTech in Computer Science at Bennett University. 🚀
+I am a **passionate Cross-Platform Developer** proficient in both **Flutter** for Android app development and **web technologies**, currently pursuing BTech in **Computer Science** at **Bennett University**. 🚀
 
-I have a strong foundation in programming languages such as C++, Java, Python, and web technologies like HTML, CSS, and JavaScript. My expertise also includes Android Development using Flutter and Java, as well as proficiency in tools like Git and GitHub.
+I have a strong foundation in programming languages such as **C++, Java, Python**, and web technologies like **HTML, CSS, and JavaScript**. My expertise also includes **Android Development** using **Flutter** and **Java**, as well as proficiency in tools like **Git** and **GitHub**.
 
-Feel free to connect with me @Bimal022 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me **@Bimal022** for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 See My Work?
 
@@ -23,20 +23,18 @@ See My Work?
 
 <img align="right" height="250" width="375" alt="" src="gifs/coder.gif"/>
 
-
 ## Talking about Personal Stuff:
-- 🛠 &nbsp; Currently honing my skills in various technologies including Flutter, Android, and web development.
-- 🚀 &nbsp; Passionate about exploring innovative tech solutions and diving deep into problem-solving challenges.
+- 🛠 &nbsp; Currently honing my skills in various technologies including **Flutter, Android, and web development**.
+- 🚀 &nbsp; Passionate about exploring innovative tech solutions and diving deep into **problem-solving challenges**.
 - 💬 &nbsp; Open to discussions and questions! Feel free to ask me anything [here](https://github.com/Bimal022/Bimal022/issues/1), and I'll be happy to help.
 - 👾 &nbsp; Fun Fact: I find joy in unraveling the complexities of coding and discovering elegant solutions.
 
 🌟 **Hobbies:**
 - ♟️ **Chess:** Enjoy strategic thinking and mental challenges through chess games.
-If you share a passion for chess, feel free to challenge me to a game on [chess.com](https://www.chess.com/member/bimal002). Just send a friend request, and let's enjoy a strategic and fun match together!
+  If you share a passion for chess, feel free to challenge me to a game on [chess.com](https://www.chess.com/member/bimal002). Just send a friend request, and let's enjoy a strategic and fun match together!
 
 - 🏏 **Cricket:** Love the thrill of the game, both playing and watching.
 - 🎱 **Snooker/Pool:** Find relaxation and precision in the game of snooker.
-
 
 📌 **Note:** Currently exploring new opportunities and ready to contribute to exciting projects!
 
@@ -74,7 +72,6 @@ If you share a passion for chess, feel free to challenge me to a game on [chess.
   <!-- Replace with your GitHub username -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimal022&hide_border=true" />
 </details>
-
 
 #
 
