@@ -19,7 +19,7 @@ Feel free to connect with me **@Bimal022** for all things tech or just to say he
 
 ### See My Work?
 <a href="https://bimal022.github.io/Portfolio/" target="_blank">
-  <a href="https://teotiaaditya.github.io/Portfolio_Aditya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
+  <a href="https://bimal022.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
 </a>
 
 
