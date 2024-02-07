@@ -55,7 +55,7 @@ Feel free to connect with me **@Bimal022** for all things tech or just to say he
 <code title="MongoDB"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB"></code>
 <code title="Git"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"></code>
 <code title="Visual Studio"><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio"></code>
-<!-- Add more languages and tools as per your expertise -->
+
 
 
 ### Projects and Dev Stuffs:
@@ -64,17 +64,16 @@ Feel free to connect with me **@Bimal022** for all things tech or just to say he
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <!-- Replace with your GitHub username -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bimal022&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal022&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bimal022&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&PAT_1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal022&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&PAT_1"/>
 </details>
 
 <details>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <!-- Replace with your GitHub username -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimal022&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bimal022&hide_border=true&PAT_1" />
 </details>
 
 #
