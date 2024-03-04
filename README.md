@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="gifs/Hi.gif" alt="Hi Gif" width="40"/>, I'm <a href="https://github.com/Bimal022/">Kumar Bimal</a>!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="LeetCode Badge">
+  <a href="https://leetcode.com/KumarBimal/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white" alt="eetCode Badge"></a>
   <a href="https://www.linkedin.com/in/kumar-bimal-a2605b240/"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="https://www.instagram.com/kumar._.bimal/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram Badge"></a>
 </p>
