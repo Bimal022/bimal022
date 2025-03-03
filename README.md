@@ -191,7 +191,6 @@ Love strategic thinking through chess games? Challenge me on [chess.com](https:/
 <a href="https://portfolio-bimal.vercel.app" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/domain.png" title="Portfolio" alt="Portfolio"/>
 </a>
-
   <a href="https://github.com/Bimal022"><img src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub" alt="GitHub"/></a>
 </p>
 
