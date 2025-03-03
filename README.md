@@ -188,7 +188,10 @@ Love strategic thinking through chess games? Challenge me on [chess.com](https:/
 <p align="center">
   <a href="https://www.linkedin.com/in/kumar-bimal-a2605b240/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" title="LinkedIn" alt="LinkedIn"/></a>
   <a href="mailto:kr.bimal002@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Email" alt="Email"/></a>
-  <a href="https://bimal022.github.io/Portfolio/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/domain.png" title="Portfolio" alt="Portfolio"/></a>
+<a href="https://portfolio-bimal.vercel.app" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/domain.png" title="Portfolio" alt="Portfolio"/>
+</a>
+
   <a href="https://github.com/Bimal022"><img src="https://img.icons8.com/fluent/48/000000/github.png" title="GitHub" alt="GitHub"/></a>
 </p>
 
